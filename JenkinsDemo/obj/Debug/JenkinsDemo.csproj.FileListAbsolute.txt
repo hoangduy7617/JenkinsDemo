@@ -1,0 +1,7 @@
+C:\Users\Splasher\source\repos\JenkinsDemo\JenkinsDemo\bin\Debug\JenkinsDemo.exe.config
+C:\Users\Splasher\source\repos\JenkinsDemo\JenkinsDemo\bin\Debug\JenkinsDemo.exe
+C:\Users\Splasher\source\repos\JenkinsDemo\JenkinsDemo\bin\Debug\JenkinsDemo.pdb
+C:\Users\Splasher\source\repos\JenkinsDemo\JenkinsDemo\obj\Debug\JenkinsDemo.csprojAssemblyReference.cache
+C:\Users\Splasher\source\repos\JenkinsDemo\JenkinsDemo\obj\Debug\JenkinsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Splasher\source\repos\JenkinsDemo\JenkinsDemo\obj\Debug\JenkinsDemo.exe
+C:\Users\Splasher\source\repos\JenkinsDemo\JenkinsDemo\obj\Debug\JenkinsDemo.pdb
